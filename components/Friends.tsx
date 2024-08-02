@@ -163,7 +163,7 @@ export default function Friends() {
                     </ul>
                   ) : (
                     <div className="text-center text-gray-400">
-                      You haven't invited anyone yet
+                      You haven&apos;t invited anyone yet
                     </div>
                   )}
                 </div>
